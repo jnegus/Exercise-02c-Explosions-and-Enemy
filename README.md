@@ -20,5 +20,5 @@ None
 Score, lives, game-start and game-end screens. In-game menu.
 
 ## Created by
-Jason Francis
+Jane Negus
 ```
